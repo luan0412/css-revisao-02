@@ -1,0 +1,36 @@
+p{
+    padding: 25px 50px 75px 100px;
+
+}
+#p1{
+    border: 4px solid blue;
+    border-radius: 8px;
+    background-color: rgba(0, 0, 255, 0.400);
+}
+#p2{
+    border: 3px solid red;
+    background-color: rgba(255, 0, 0, 0.400);
+}
+#p3{
+    border: 3px dotted orange;
+    background-color: rgba(255, 166, 0, 0.400);
+}
+#p4{
+    border: 3px dashed aqua;    
+    background-color: rgba(0, 255, 255, 0.400);
+}
+#p5{
+    border: 10px double green;
+    background-color: rgba(0, 128, 0, 0.400);
+}
+#p6{
+    border: 4px double grey;
+    background-color: rgba(128, 128, 128, 0.400)
+}
+#p7{
+    border: 3px solid purple;
+    border-left: 20px solid purple;
+    border-right: 20px solid purple;
+    border-bottom: 10px solid purple;
+    background-color: rgba(128, 0, 128, 0.400);
+}
